@@ -3,7 +3,7 @@ if not game:IsLoaded() then
 end
 
 local v = {
-    [17541114784]  = "https://raw.githubusercontent.com/ZeroXSpex/ZeroXSpex/refs/heads/main/Games/Cong%20Dong%20Viet%20Nam/Infinite%20Stamina.lua"
+    [17541114784]  = "https://raw.githubusercontent.com/ZeroXSpex/ZeroXSpex/refs/heads/main/Games/Cong%20Dong%20Viet%20Nam/Infinite%20Stamina.lua" -- CDVN QT
 }
 
 local z = v[game.PlaceId]
